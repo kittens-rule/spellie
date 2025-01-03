@@ -157,7 +157,7 @@ const validWords = new Set([
   "ANKH",
   "ANNA",
   "ANNO",
-  "ANNS",
+  "APRIL",
   "ANOA",
   "ANON",
   "ANOW",
